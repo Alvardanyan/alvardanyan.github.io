@@ -12,6 +12,8 @@ My work combines technical writing, documentation strategy, automation, and cros
 
 With recent experience as a Technical Writer at ServiceTitan, I have collaborated with Product Managers, Engineers, Designers, and Subject Matter Experts to develop user-focused documentation, knowledge resources, and scalable content solutions for SaaS products.
 
+Check out my portfolio here: https://github.com/Alvardanyan/knowledge-base-portfolio
+
 ---
 
 ## What I Do
