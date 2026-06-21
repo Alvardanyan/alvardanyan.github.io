@@ -23,7 +23,7 @@ With recent experience as a Technical Writer at ServiceTitan, I have collaborate
 - Process Documentation
 - Release Documentation
 - End-to-End Workflow Guides
-- Toubleshooting Articles
+- Troubleshooting Articles
 - Workflow videos
 
 ### Knowledge Management
